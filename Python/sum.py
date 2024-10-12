@@ -1,3 +1,3 @@
-a=10
-b=15
+a=100
+b=150
 print("sum is", a+b)
